@@ -2,6 +2,11 @@
 
 This is a simple web application that allows users to upload a PDF file and display its pages as images. Users can select a page from the uploaded PDF and view its content as text.
 
+## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ## Installation
 
 Clone the repository to your local machine.
