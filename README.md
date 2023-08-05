@@ -6,6 +6,9 @@ This is a simple web application that allows users to upload a PDF file and disp
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Demo
+
+![](img/demo.png)
 
 ## Installation
 
