@@ -1,0 +1,12 @@
+services:
+  # A Docker web service
+  - type: web
+    name: pdf_online_editorn
+    runtime: python
+    plan: free
+    autoDeploy: false
+    buildCommand: pip install -r requirements.txt
+    startCommand: sh setup.sh && streamlit run app.py --port=${PORT:-5000}
+    envVars:
+    - key: PYTHON_VERSION
+      value: 3.10.12

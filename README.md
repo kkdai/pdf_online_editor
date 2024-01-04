@@ -4,6 +4,8 @@ This is a simple web application that allows users to upload a PDF file and disp
 
 ## Deploy
 
+[![Deploy to Render](http://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Demo
